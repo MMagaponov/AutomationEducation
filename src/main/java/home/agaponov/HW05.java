@@ -2,6 +2,10 @@ package home.agaponov;
 
 
 public class HW05 {
+    /*
+    Не верно. В задаче речь шла о числе, которое хранится в переменной int
+    а не строке, которая представляет число.
+    */
     public static void main(String[] args) {
         String digits = "45685";
         int length = digits.length();
