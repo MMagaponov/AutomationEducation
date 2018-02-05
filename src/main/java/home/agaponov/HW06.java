@@ -17,6 +17,6 @@ public class HW06 {
 
         double result = (x*x) + (y*y) + (z*z);
 
-        System.out.println("Длина вектора " +"("+x+y+z+")"+" = "+Math.sqrt(result));
+        System.out.println("Длина вектора " +"("+x + " ;" + y + " ;" +z+")"+" = "+Math.sqrt(result));
     }
 }
