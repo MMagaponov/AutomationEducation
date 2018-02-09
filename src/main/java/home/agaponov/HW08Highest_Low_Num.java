@@ -13,14 +13,14 @@ public class HW08Highest_Low_Num {
         long number = scan.nextLong();
 
         while (number > 0) {
-            long littleNumber;
-            littleNumber = number % 10;
+            long count;
+            count = number % 10;
             number = number / 10;
-            if (littleNumber >= max) {
-                max = littleNumber;
+            if (count >= max) {
+                max = count;
             }
-            if (littleNumber <= min){
-                min = littleNumber;
+            if (count <= min){
+                min = count;
             }
         }
         System.out.println("Наибольшая цифра: " + max);
