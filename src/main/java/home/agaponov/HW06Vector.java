@@ -3,7 +3,7 @@ package home.agaponov;
 
 import java.util.Scanner;
 
-public class HW06 {
+public class HW06Vector {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter x");
