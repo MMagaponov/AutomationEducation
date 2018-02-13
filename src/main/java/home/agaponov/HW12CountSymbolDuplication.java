@@ -16,7 +16,7 @@ public class HW12CountSymbolDuplication {
         for (int i = 0; i < s.length(); i++) {
             arr[s.charAt(i)]++;
         }
-        // вывод
+
         for (int i = 97; i < 123; i++) {
             System.out.println((char) i + " встречается " + arr[i] + " раз");
         }

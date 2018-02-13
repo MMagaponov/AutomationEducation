@@ -6,11 +6,12 @@ import com.sun.jna.platform.win32.WinDef;
 
 import java.util.Scanner;
 
+
+
 public class HW11StringChange {
 
-    public String firstUpperCase(String word){
-        if(word == null || word.isEmpty()) return "";//или return word;
-        return word.substring(0, 1).toUpperCase() + word.substring(1);
+    private static String capitalize(final String line) {
+        return Character.toUpperCase(line.charAt(0)) + line.substring(1);
     }
 
     public static void main(String[] args) {
@@ -38,21 +39,20 @@ public class HW11StringChange {
 
 
 
-
         switch (choice) {
             case 'A':  userResult = userResult.toUpperCase();
                 break;
             case 'B':  userResult = userResult.toLowerCase();
                 break;
-            case 'C':  userResult = "Март";
+            case 'C':  userResult = "";
                 break;
-            case 'D':  userResult = "Апрель";
+            case 'D':  userResult = "";
                 break;
-            case 'E':  userResult = "Май";
+            case 'E':  userResult = capitalize(userResult);
                 break;
-            case 'F':  userResult = "Июнь";
+            case 'F':  userResult = "Выход";
                 break;
-            case 'G':  userResult = "Июль";
+            default:  userResult = "Выход";
                 break;
 
         }
