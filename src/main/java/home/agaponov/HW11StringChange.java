@@ -7,7 +7,9 @@ import com.sun.jna.platform.win32.WinDef;
 import java.util.Scanner;
 
 
-
+/**
+Не полное решение
+**/
 public class HW11StringChange {
 
     private static String capitalize(final String line) {
