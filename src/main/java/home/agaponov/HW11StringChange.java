@@ -7,16 +7,10 @@ import com.sun.jna.platform.win32.WinDef;
 import java.util.Scanner;
 
 
-
 public class HW11StringChange {
 
-    private static String capitalize(final String line) {
-        return Character.toUpperCase(line.charAt(0)) + line.substring(1);
-    }
 
     public static void main(String[] args) {
-
-
 
 
         Scanner scan = new Scanner(System.in);
@@ -35,24 +29,30 @@ public class HW11StringChange {
         String c = scan.nextLine();
         c = c.toUpperCase();
         char choice = c.charAt(0);
-        //String userResult = "";
 
 
 
         switch (choice) {
-            case 'A':  userResult = userResult.toUpperCase();
+            case 'A':
+                userResult = userResult.toUpperCase();
                 break;
-            case 'B':  userResult = userResult.toLowerCase();
+            case 'B':
+                userResult = userResult.toLowerCase();
                 break;
-            case 'C':  userResult = "";
+            case 'C':
+                userResult = toTitleCase(userResult);
                 break;
-            case 'D':  userResult = "";
+            case 'D':
+                userResult = toLowCase(userResult);
                 break;
-            case 'E':  userResult = capitalize(userResult);
+            case 'E':
+                userResult = capitalize(userResult);
                 break;
-            case 'F':  userResult = "Выход";
+            case 'F':
+                userResult = "Выход";
                 break;
-            default:  userResult = "Выход";
+            default:
+                userResult = "Выход";
                 break;
 
         }
@@ -61,6 +61,31 @@ public class HW11StringChange {
 
     }
 
+    private static String capitalize(final String line) {
+        return Character.toUpperCase(line.charAt(0)) + line.substring(1);
+    }
+
+    public static String toTitleCase(String givenString) {
+        String[] arr = givenString.split(" ");
+        StringBuffer sb = new StringBuffer();
+
+        for (int i = 0; i < arr.length; i++) {
+            sb.append(Character.toUpperCase(arr[i].charAt(0)))
+                    .append(arr[i].substring(1)).append(" ");
+        }
+        return sb.toString().trim();
+    }
+
+    public static String toLowCase(String givenString) {
+        String[] arr = givenString.split(" ");
+        StringBuffer sb = new StringBuffer();
+
+        for (int i = 0; i < arr.length; i++) {
+            sb.append(Character.toLowerCase(arr[i].charAt(0)))
+                    .append(arr[i].substring(1)).append(" ");
+        }
+        return sb.toString().trim();
+    }
 
 }
 

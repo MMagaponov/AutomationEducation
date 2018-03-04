@@ -3,8 +3,7 @@ package home.agaponov;
 
 public class HW05 {
     /*
-    Не верно. В задаче речь шла о числе, которое хранится в переменной int
-    а не строке, которая представляет число.
+    Есть второе решение в соседнем файле
     */
     public static void main(String[] args) {
         String digits = "45685";
