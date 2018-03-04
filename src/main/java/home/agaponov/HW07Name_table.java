@@ -3,7 +3,9 @@ package home.agaponov;
 import java.util.Scanner;
 
 
-
+//В задаче требовалось у пользователя запросить Full Name
+// и выввести в рамке по середине
+// В ришении же выводится в начале рамки
 public class HW07Name_table {
     public static void main(String[] args) {
 
