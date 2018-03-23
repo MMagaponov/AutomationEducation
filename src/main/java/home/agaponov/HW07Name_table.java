@@ -1,18 +1,14 @@
 package home.agaponov;
-
 import java.util.Scanner;
 
-
-//В задаче требовалось у пользователя запросить Full Name
-// и выввести в рамке по середине
-// В ришении же выводится в начале рамки
 public class HW07Name_table {
+
     public static void main(String[] args) {
 
         String line1 = "Course of Java";
         String line2 = "Group: ";
         String line3 = "Full Name: ";
-        String star = "*";
+        String lineBlank = " ";
 
         Scanner inputUser = new Scanner(System.in);
         System.out.print("Enter your full name: ");
@@ -20,7 +16,7 @@ public class HW07Name_table {
         System.out.print("Enter your group name: ");
         String group = inputUser.nextLine();
 
-        displayResult(line1, line2 + group, line3 + name);
+        displayResult(line1, lineBlank, line2 + group, lineBlank, line3 + name);
 
 
     }
@@ -47,9 +43,9 @@ public class HW07Name_table {
         return length;
     }
 
-    private static String fillString(String str, int length) {
+    private static String fillString(String str, int lengthA) {
         StringBuilder sb = new StringBuilder(str);
-        return sb.append(fill(' ', length - str.length())).toString();
+        return sb.append(fill(' ',lengthA - str.length())).toString();
     }
 
     private static String fill(char ch, int len) {
@@ -61,13 +57,22 @@ public class HW07Name_table {
     }
 
     private static void displayResult(String... strings) {
-        int maxBoxWidth = getMaxLength(strings);
+        int maxBoxWidth = getMaxLength(strings)+10;
         String line = "*" + fill('*', maxBoxWidth + 2) + "*";
+        println(" ");
         println(line);
+        println(" ");
         for (String str : strings) {
-            System.out.printf("* %s *%n", fillString(str, maxBoxWidth));
+            if(str.equals(" ")){
+                println(" ");
+            } else {
+                System.out.printf("* %s *%n", fillString("     "+str, maxBoxWidth));
+            }
         }
+        println(" ");
         println(line);
+        println(" ");
     }
-
 }
+
+
