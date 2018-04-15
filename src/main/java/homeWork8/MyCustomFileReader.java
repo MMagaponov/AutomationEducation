@@ -15,16 +15,16 @@ public class MyCustomFileReader {
             Map<String, Integer> map = new TreeMap<String, Integer>();
             while (insideData != null) {
 
-                String[] arr = insideData.split("[,.!:? ]");
+                String[] newArr = insideData.split("[,.!:? ]");
 
-                for (String ss : arr) {
-                    ss = ss.toLowerCase();
-                    Integer counter = map.get(ss);
-                    if (counter == null) {
-                        map.put(ss, 1);
+                for (String stream : newArr) {
+                    stream = stream.toLowerCase();
+                    Integer count = map.get(stream);
+                    if (count == null) {
+                        map.put(stream, 1);
                     } else {
-                        counter++;
-                        map.put(ss, counter);
+                        count++;
+                        map.put(stream, count);
                     }
                 }
                 insideData = numberReader.readLine();
@@ -36,9 +36,9 @@ public class MyCustomFileReader {
 
 
         } catch (FileNotFoundException e) {
-            System.err.println("Файл не найден!!!");
+            System.err.println("No file like this");
         } catch (IOException e) {
-            System.out.println("Доступ к файлу запрещен!!!");
+            System.out.println("File access is restricted");
         }
     }
 }

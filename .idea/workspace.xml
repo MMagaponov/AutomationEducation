@@ -2,45 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcaec933-edb4-4349-aae7-5b870d00a49e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/home/HomeWork7/FileFindPhrase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/home/HomeWork7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/home/HomeWork7/StringChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/home/HomeWork7/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWork8/MyCustomFileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWork8/Test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/helloworld.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/agaponov/HW01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/agaponov/HW01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/agaponov/HW02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/agaponov/HW02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/agaponov/HW03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/agaponov/HW03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/agaponov/HW04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/agaponov/HW04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/agaponov/HW05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/agaponov/HW05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/agaponov/HW05_1New.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/agaponov/HW05_1New.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/agaponov/HW06Vector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/agaponov/HW06Vector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/agaponov/HW07Name_table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/agaponov/HW07Name_table.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/agaponov/HW08Highest_Low_Num.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/agaponov/HW08Highest_Low_Num.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/agaponov/HW09Fibanachi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/agaponov/HW09Fibanachi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/agaponov/HW10NotMandatory1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/agaponov/HW10NotMandatory1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/agaponov/HW11StringChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/agaponov/HW11StringChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/agaponov/HW12CountSymbolDuplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/agaponov/HW12CountSymbolDuplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/home/agaponov/HellowWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/agaponov/HellowWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home/agaponov/HW01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home/agaponov/HW02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home/agaponov/HW03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home/agaponov/HW04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home/agaponov/HW05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home/agaponov/HW05_1New.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home/agaponov/HW06Vector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home/agaponov/HW07Name_table.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home/agaponov/HW08Highest_Low_Num.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home/agaponov/HW09Fibanachi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home/agaponov/HW10NotMandatory1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home/agaponov/HW11StringChange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home/agaponov/HW12CountSymbolDuplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home/agaponov/HellowWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/home/HomeWork7/FileFindPhrase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/home/HomeWork7/PhraseFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/home/HomeWork7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/home/HomeWork7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork8/MyCustomFileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork8/MyCustomFileReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/home/HomeWork7/FileFindPhrase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/home/HomeWork7/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/home/HomeWork7/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -72,11 +39,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FileFindPhrase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/home/HomeWork7/FileFindPhrase.java">
+      <file leaf-file-name="PhraseFinder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/home/HomeWork7/PhraseFinder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="36" column="59" selection-start-line="36" selection-start-column="59" selection-end-line="36" selection-end-column="59" />
+            <state relative-caret-position="125">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,8 +54,23 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/home/HomeWork7/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="448">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringChecker.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/home/HomeWork7/StringChecker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -93,7 +78,7 @@
       <file leaf-file-name="HW04.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/home/agaponov/HW04.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6">
+            <state relative-caret-position="192">
               <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
             </state>
           </provider>
@@ -102,10 +87,11 @@
       <file leaf-file-name="MyCustomFileReader.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/homeWork8/MyCustomFileReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+            <state relative-caret-position="336">
+              <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#541#558#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -123,7 +109,7 @@
       <file leaf-file-name="HW08Highest_Low_Num.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/home/agaponov/HW08Highest_Low_Num.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="176">
               <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
             </state>
           </provider>
@@ -132,17 +118,8 @@
       <file leaf-file-name="test.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/home/HomeWork7/test.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HW11StringChange.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/home/agaponov/HW11StringChange.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="90" selection-start-line="90" selection-end-line="90" />
+            <state relative-caret-position="176">
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -150,7 +127,7 @@
       <file leaf-file-name="HW10NotMandatory1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/home/agaponov/HW10NotMandatory1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="64">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
@@ -159,7 +136,7 @@
       <file leaf-file-name="HW07Name_table.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/home/agaponov/HW07Name_table.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="1120">
               <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
             </state>
           </provider>
@@ -208,6 +185,7 @@
         <option value="$PROJECT_DIR$/src/main/java/home/HomeWork7/FileFindPhrase.java" />
         <option value="$PROJECT_DIR$/src/main/java/homeWork8/Test" />
         <option value="$PROJECT_DIR$/src/main/java/homeWork8/ReadFromFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/home/HomeWork7/PhraseFinder.java" />
         <option value="$PROJECT_DIR$/src/main/java/homeWork8/MyCustomFileReader.java" />
       </list>
     </option>
@@ -255,6 +233,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -308,9 +287,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -340,7 +318,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyCustomFileReader">
+  <component name="RunManager" selected="Application.Main">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -771,9 +749,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MyCustomFileReader" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.HW07Name_table" />
         <item itemvalue="Application.HW11StringChange" />
       </list>
@@ -816,11 +794,12 @@
       <workItem from="1523803767031" duration="210000" />
       <workItem from="1523804015279" duration="525000" />
       <workItem from="1523804712080" duration="1794000" />
+      <workItem from="1523807376379" duration="3349000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87241000" />
+    <option name="totallyTimeSpent" value="90590000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -832,24 +811,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="704" extended-state="6" />
+    <frame x="0" y="22" width="1280" height="708" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49676898" visible="true" weight="0.3294893" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49676898" weight="0.3294893" />
       <window_info anchor="right" id="Palette&#9;" order="10" />
       <window_info id="Image Layers" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.509693" side_tool="true" weight="0.31699347" />
       <window_info anchor="right" id="Maven Projects" order="4" sideWeight="0.4914842" visible="true" weight="0.016962843" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.48707592" weight="0.2630719" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49030694" weight="0.31810766" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.21568628" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49030694" visible="true" weight="0.31751227" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.21440262" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34814218" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35379645" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -857,13 +836,13 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info id="Nl-Palette" order="2" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info anchor="right" id="Properties" order="5" />
       <window_info anchor="right" id="Coverage" order="9" sideWeight="0.50851583" side_tool="true" weight="0.16882068" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Properties" order="5" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
@@ -905,6 +884,76 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/home/HomeWork7/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/agaponov/HW04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" selection-start-line="14" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/agaponov/HW08Highest_Low_Num.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/home/HomeWork7/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/agaponov/HW11StringChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1408">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/agaponov/HW10NotMandatory1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/agaponov/HW07Name_table.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homeWork8/MyCustomFileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#541#558#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -939,9 +988,6 @@
           <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/agaponov/HW05.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/home/agaponov/HellowWorld.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1006,12 +1052,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/agaponov/HW06Vector.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/home/agaponov/HW01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -1032,24 +1072,6 @@
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/agaponov/HellowWorld.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/agaponov/HellowWorld.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/agaponov/HellowWorld.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/package-info.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/home/agaponov/HellowWorld.java">
@@ -1125,65 +1147,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/HomeWork7/StringChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/HomeWork7/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/home/agaponov/HW11StringChange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="1408">
           <caret line="90" selection-start-line="90" selection-end-line="90" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/home/agaponov/HW10NotMandatory1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="64">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/home/agaponov/HW07Name_table.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="1120">
           <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/home/agaponov/HW08Highest_Low_Num.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="176">
           <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/HomeWork7/FileFindPhrase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="36" column="59" selection-start-line="36" selection-start-column="59" selection-end-line="36" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/HomeWork7/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/home/agaponov/HW04.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6">
+        <state relative-caret-position="192">
           <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
@@ -1195,12 +1189,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/homeWork8/MyCustomFileReader.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/home/HomeWork7/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        <state relative-caret-position="448">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/home/HomeWork7/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/home/HomeWork7/StringChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/home/HomeWork7/PhraseFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homeWork8/MyCustomFileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#541#558#0" expanded="true" />
           </folding>
         </state>
       </provider>

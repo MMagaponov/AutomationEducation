@@ -2,17 +2,16 @@ package home.HomeWork7;
 
 
 import java.io.*;
-import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.regex.Pattern;
 
 import static java.nio.file.Files.newBufferedReader;
 
-public class FileFindPhrase {
+public class PhraseFinder {
     private final String filePath;
     private final String phrase;
 
-    public FileFindPhrase(String filePath, String phrase) {
+    public PhraseFinder(String filePath, String phrase) {
         this.filePath = filePath;
         this.phrase = phrase;
     }

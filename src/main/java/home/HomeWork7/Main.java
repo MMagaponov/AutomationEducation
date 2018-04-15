@@ -13,7 +13,7 @@ public class Main {
         System.out.println("Enter file path: ");
         String file = reader.readLine();
         StringChecker sc = new StringChecker();
-        FileFindPhrase ffp = new FileFindPhrase(file, phrase);
+        PhraseFinder ffp = new PhraseFinder(file, phrase);
         boolean isRegExp = sc.checkStringOnRegExp(phrase);
         try {
             if (isRegExp) {
